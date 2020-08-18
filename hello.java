@@ -1,7 +1,8 @@
 import java.lang.*;
 public static void Main(String args[])
 {
-
-  System.out.println("Hello World!!!");
+  int a=5,b=7,c;
+  c=a+b;
+  System.out.println("Hello World!!! " + c);
 
 }
